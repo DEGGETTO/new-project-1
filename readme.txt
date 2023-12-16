@@ -1,4 +1,4 @@
 new-proj-1
 
-master
+other-feature-2
 
